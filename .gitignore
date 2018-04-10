@@ -23,3 +23,11 @@ data/DoctrineORMModule/cache/
 # Legacy ZF1
 demos/
 extras/documentation
+
+
+.vagrant/
+.idea/
+vendor_dev/
+config/development.config.php
+!data/cache/.gitkeep
+phpunit.xml
